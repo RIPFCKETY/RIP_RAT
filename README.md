@@ -1,4 +1,4 @@
-<h1 align="center" font_size = "22">
+<h1 align="center" font_size = "50">
  <br>
  R.I.P RAT
  <br>
