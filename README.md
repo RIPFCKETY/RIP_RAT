@@ -45,7 +45,8 @@
  * 𝘛𝘶𝘳𝘯 𝘖𝘧𝘧 𝘙𝘢𝘵 🔴
 
 ## Test Rat     
- https://www.youtube.com/watch?v=IselU2CUXMw
+ [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 
 
 ## Buy
